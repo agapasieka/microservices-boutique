@@ -5,7 +5,7 @@
 
 - Install [kubectl](https://kubernetes.io/docs/tasks/tools/)
 
-## Clone the repo
+## Clone the Github repo
 ```
 git clone https://github.com/agapasieka/microservices-boutique.git
 ```
