@@ -1,5 +1,14 @@
 # Deploy Online Boutique on a local minikube
 
+## Pre-requisites
+Install [Minikube](https://github.com/kubernetes/minikube?tab=readme-ov-file#minikube)
+
+Install [kubectl](https://kubernetes.io/docs/tasks/tools/)
+
+## Clone the repo
+```
+```
+
 ## Create a minikube cluster
 ````
 minikube start
