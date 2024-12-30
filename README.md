@@ -18,3 +18,10 @@ This lab is based on [Online Boutique repo](https://github.com/GoogleCloudPlatfo
 | **recommendationservice** | Python     | Suggests related products based on items in the user's cart.                                              |
 | **adservice**         | Java           | Provides contextual text ads based on specified keywords.                                                 |
 | **loadgenerator**     | Python/Locust  | Simulates realistic user shopping behaviors by sending requests to the frontend.                          |
+
+
+
+## Deployment
+
+- [Minikube](https://github.com/agapasieka/microservices-boutique/blob/master/docs/minikube-deploy.md)
+- [GKE](https://github.com/agapasieka/microservices-boutique/blob/master/docs/gke-deploy.md)
