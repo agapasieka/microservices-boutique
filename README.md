@@ -1,9 +1,11 @@
-# Microservices demo: Online Boutique 
+# Microservices Demo: Online Boutique 
 This lab is based on [Online Boutique repo](https://github.com/GoogleCloudPlatform/microservices-demo/blob/main/README.md)
 
 ## Architecture Diagram
 ![architecture](docs/architecture.png)
 
+
+## Microservices Overview
 
 | Service               | Language       | Description                                                                                                 |
 |-----------------------|----------------|-------------------------------------------------------------------------------------------------------------|
@@ -18,6 +20,7 @@ This lab is based on [Online Boutique repo](https://github.com/GoogleCloudPlatfo
 | **recommendationservice** | Python     | Suggests related products based on items in the user's cart.                                              |
 | **adservice**         | Java           | Provides contextual text ads based on specified keywords.                                                 |
 | **loadgenerator**     | Python/Locust  | Simulates realistic user shopping behaviors by sending requests to the frontend.                          |
+
 
 
 
