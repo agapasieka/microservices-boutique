@@ -7,6 +7,7 @@ Install [kubectl](https://kubernetes.io/docs/tasks/tools/)
 
 ## Clone the repo
 ```
+git clone https://github.com/agapasieka/microservices-boutique.git
 ```
 
 ## Create a minikube cluster
